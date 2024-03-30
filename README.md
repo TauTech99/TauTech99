@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **university projects**
 
-- 🌱 I’m currently learning **Web developping at UNER and programming at UNAHUR**
+- 🌱 I’m currently learning **Web developping at university**
 
 - 👯 I’m looking to collaborate on **any project that is related to IT**
 
