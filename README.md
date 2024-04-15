@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any project that is related to IT**
 
-- 📫 How to reach me **it.tau.tech@gmail.com**
+- 📫 How to reach me **taoufiksaidi1414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
