@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software developping at university**
 
-- 👯 I’m looking to collaborate on **any project that is related to IT**
+- 👯 I’m looking to collaborate on **any project that is related to IT, OT and AI**
 
 - 📫 How to reach me **it.tau.tech@gmail.com**
 
